@@ -9,7 +9,7 @@
 
 
 
-<table align="center">
+<table align="left">
 <tr border="none">
 <td width="50%" align="left">
 
