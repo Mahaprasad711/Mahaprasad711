@@ -31,7 +31,7 @@
 
 
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
+ <img allign="center" src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
 
 
@@ -41,8 +41,6 @@
     <img align="center" alt="Mahaprasad | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://x.com/Mahaprasad711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mahaprasad" height="30" width="40" /></a>
-
-<p>
 
 
 
