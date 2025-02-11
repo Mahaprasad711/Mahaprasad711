@@ -14,7 +14,7 @@
 <td width="50%" align="left">
 
 - 🔭 I’m currently working on `Backend` Development and `MERN stack`.
-- 🌱 I’m currently learning `DevOps`,`Nginx`,`AWS` and `Kubernetes`
+- 🌱 I’m currently learning `DevOps`,`Nginx`,`AWS`,`Next.js` and `Kubernetes`
 - 👯 I’m looking to collaborate with `Frontend Developers` and `Full Stack Engineers`.
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.node.js`, `express.js`
 - 💬 Ping me about , **Fullstack WebDev**, **DevOps**.
